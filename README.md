@@ -49,7 +49,7 @@ Explore additional fitness-related features
 End
 
 ## Live Project
-https://diet-and-fitness-recommendation-chatbot-qrvh3zwnnphu6mswfiba5p.streamlit.app/
+https://dietandfitnessrecommendationsystem.streamlit.app/
 
 
 
